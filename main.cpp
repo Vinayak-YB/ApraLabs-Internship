@@ -1,10 +1,10 @@
 
-#include<iostream>
-#include<string.h>
-#include"Shape.h"
-#include"Circle.h"
-#include"Rectangle.h"
-#include"Triangle.h"
+#include <iostream>
+#include <string>
+#include "include/Shape.h"
+#include "include/Circle.h"
+#include "include/Rectangle.h"
+#include "include/Triangle.h"
 using namespace std;
 
 int main()

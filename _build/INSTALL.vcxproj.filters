@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\91886\Documents\GitHub\ApraLabs-Internship\_build\CMakeFiles\4364df763af11ae6daab4fe873099293\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ED264A13-7181-3FBC-9F6A-3B7C0781758E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

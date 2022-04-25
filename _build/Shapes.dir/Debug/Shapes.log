@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Circle::getPerimeter(void)" (?getPerimeter@Circle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Circle::getArea(void)" (?getArea@Circle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Circle::getColor(void)" (?getColor@Circle@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Rectangle::getPerimeter(void)" (?getPerimeter@Rectangle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Rectangle::getArea(void)" (?getArea@Rectangle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Rectangle::getColor(void)" (?getColor@Rectangle@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Triangle::getPerimeter(void)" (?getPerimeter@Triangle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: double __thiscall Triangle::getArea(void)" (?getArea@Triangle@@QAENXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Triangle::getColor(void)" (?getColor@Triangle@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function _main
+C:\Users\91886\Documents\GitHub\ApraLabs-Internship\_build\Debug\Shapes.exe : fatal error LNK1120: 9 unresolved externals

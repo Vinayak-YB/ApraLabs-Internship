@@ -1,0 +1,9 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/91886/Documents/GitHub/ApraLabs-Internship/CMakeLists.txt'
+    is newer than 'C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/generate.stamp.depend'
+    result='-1'
+  -- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.22579.
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build

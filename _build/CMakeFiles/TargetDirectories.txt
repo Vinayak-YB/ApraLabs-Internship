@@ -1,0 +1,4 @@
+C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/ShapeLib.dir
+C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/shapesut.dir
+C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/91886/Documents/GitHub/ApraLabs-Internship/_build/CMakeFiles/ZERO_CHECK.dir
